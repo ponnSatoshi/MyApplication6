@@ -24,7 +24,6 @@ public class MyActivity extends ActionBarActivity {
                 //EditText editText = (EditText) findViewById(R.id.edittext);
                 //intent.putExtra("inputText", editText.getText().toString());
                 startActivity(intent);
-                //testdesuyo
             }
         });
     }
